@@ -3,6 +3,7 @@
 </p>
 
 ---
+
 # [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
 
 ---
@@ -17,7 +18,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://kansaok.my.id/).
 
 ---
 
@@ -68,9 +69,9 @@ git --version
 To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```
-git clone https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
+git clone https://github.com/<YOUR GITHUB USERNAME>/my-portfolio.git
 
-cd developer-portfolio
+cd my-portfolio
 ```
 
 ### Install packages from the root directory
@@ -115,20 +116,19 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
-  profile: "/profile.png",
+  name: "UKAN SAOKANI",
+  profile: "/ukan.jpeg",
   designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  description: "My name is UKAN SAOKANI....",
+  email: "ukan.job@gmail.com",
+  phone: "+6281288166675",
+  address: "Bandung, Indonesia",
+  github: "https://github.com/kansaok",
+  facebook: "https://www.facebook.com/cobaenter/",
+  linkedIn: "https://www.linkedin.com/in/ukan-saokani/",
+  twitter: "https://twitter.com/cobaenter",
+  stackOverflow: "https://stackoverflow.com/users/27086166/ukan-saokani",
+  devUsername: "kansaok",
   resume: "...",
 };
 ```
