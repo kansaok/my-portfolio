@@ -13,5 +13,5 @@ export const personalData = {
   twitter: "https://x.com/kansaok",
   stackOverflow: "https://stackoverflow.com/users/27086166/ukan-saokani",
   devUsername: "kansaok",
-  resume: "https://drive.google.com/file/d/1VT4GoAiDgfY3VAIKWkXNS6qd9ownnH0P/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1-MKBzXrjdkCzLQHBxUv-TKo95xj2MzVW/view?usp=sharing",
 };
