@@ -1,6 +1,6 @@
 export const personalData = {
   name: "UKAN SAOKANI",
-  profile: "/ukan.jpeg",
+  profile: "/ukan.jpg",
   designation: "Software Engineer",
   description:
     "My name is Ukan Saokani, a passionate software engineer with a strong drive in both my personal and professional life. Since 2016, I've been deeply involved in backend development, recognized as a quick learner who is always eager to explore new technologies and solve complex problems. I enjoy a wide range of application development, with core skills in various languages and frameworks, including Laravel, Django, Golang, and Node.js. Beyond backend, I also have experience in frontend technologies such as Angular, React, and Vue.js, along with expertise in database management using MySQL, PostgreSQL, and MongoDB.",

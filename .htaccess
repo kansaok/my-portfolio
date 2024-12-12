@@ -1,0 +1,15 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/tesaplik/kansaok.my.id"
+PassengerBaseURI "/"
+PassengerNodejs "/home/tesaplik/nodevenv/kansaok.my.id/18/bin/node"
+PassengerAppType node
+PassengerStartupFile server.js
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
+Options +FollowSymLinks -Indexes
+IndexIgnore \*
+DirectoryIndex
+<IfModule mod_rewrite.c>
+RewriteEngine on
+# Simple URL redirect:
+RewriteRule ^(.\*)$ http://127.0.0.1:52125/$1 [P]
+</IfModule>

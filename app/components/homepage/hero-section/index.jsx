@@ -18,8 +18,7 @@ function HeroSection() {
         <div className="order-2 lg:order-1 flex flex-col items-start justify-center p-2 pb-20 md:pb-10 lg:pt-10">
           <h1 className="text-3xl font-bold leading-10 text-white md:font-extrabold lg:text-[2.6rem] lg:leading-[3.5rem]">
             Hello, <br />
-            This is <span className=" text-pink-500">{personalData.name}</span>
-            {` , I'm a Professional `}
+            {`I'm a Professional `}
             <span className=" text-[#16f2b3]">{personalData.designation}</span>.
           </h1>
 
@@ -88,13 +87,15 @@ function HeroSection() {
                 <span className="text-gray-400">{`['`}</span>
                 <span className="text-amber-300">Golang</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Django</span>
+                <span className="text-amber-300">Python</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Laravel</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Angular</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">VueJs</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Next.js</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MySql</span>
                 <span className="text-gray-400">{"', '"}</span>
